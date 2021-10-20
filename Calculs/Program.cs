@@ -106,7 +106,7 @@ namespace Calculs
                     }
                     else
                     {
-                        Console.WriteLine("Erreur de saisie : saisissez un nombre entre 0, 1 et 2");
+                        Console.WriteLine("Erreur de saisie : saisissez un nombre entre 0, 1 et 2aaa");
                     }
                 }
             }
